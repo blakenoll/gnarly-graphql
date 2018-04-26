@@ -1,3 +1,5 @@
+# NPM package to create a GraphQL server using express and apollo-server-express
+
 # Installation
 
 Using yarn:
@@ -8,6 +10,12 @@ Using npm:
 
 `npm i -g gnarly-graphql`
 
-Once Installed run the command 
+
+# Usage
+
+Once Installed run the command: 
 
 `new-gql-server <serverName>`
+
+to create a new GraphQL server 
+
