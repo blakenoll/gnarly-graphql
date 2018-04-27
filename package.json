@@ -1,6 +1,6 @@
 {
   "name": "gnarly-graphql",
-  "version": "1.0.4",
+  "version": "1.0.5",
   "description": "GraphQL bolierplate code using express ",
   "main": "index.js",
   "scripts": {
