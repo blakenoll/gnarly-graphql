@@ -1,6 +1,10 @@
-# NPM package to create a GraphQL server using express and apollo-server-express
+# Description
+
+NPM package allowing users to create boilerplate GraphQL servers powered by Express, apollo-express-server and Babel using a simple CLI.
 
 # Installation
+
+Install gloabally to allow CLI to run anywhere. 
 
 Using yarn:
 
@@ -13,7 +17,7 @@ Using npm:
 
 # Usage
 
-Once Installed run the command: 
+Once Installed simple run the command: 
 
 `new-gql-server <serverName>`
 
