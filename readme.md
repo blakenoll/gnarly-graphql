@@ -4,7 +4,7 @@ NPM package allowing users to create boilerplate GraphQL servers powered by Expr
 
 # Installation
 
-Install gloabally to allow CLI to run anywhere. 
+Install globally to allow CLI to run anywhere. 
 
 Using yarn:
 
