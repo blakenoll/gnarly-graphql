@@ -12,6 +12,7 @@
     "new-gql-server": "bin/new.js"
   },
   "dependencies": {
+    "minimist": "^1.2.0",
     "shelljs": "^0.8.1"
   },
   "repository": {
