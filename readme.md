@@ -23,3 +23,13 @@ Once Installed simple run the command:
 
 to create a new GraphQL server 
 
+`new-gql-server -help`
+
+to bring up help docmentation
+
+`new-gql-server -v`
+
+to bring up version info
+
+
+
