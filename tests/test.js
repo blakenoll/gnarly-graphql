@@ -1,6 +1,6 @@
 const shell = require("shelljs")
 
-if (shell.exec(`new-gql-server __tester`)) {
+if (shell.exec(`node bin/new.js __tester`)) {
   return shell.exec('rm -r __tester && echo "Success" && exit 0')
 }
 
