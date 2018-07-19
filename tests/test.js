@@ -1,7 +1,7 @@
-const shell = require(shell)
+const shell = require("shelljs")
 
-if (shell.exec(`git clone https://github.com/blakenoll/gql-starter.git`)) {
-  return shell.exec('echo "Success" && exit 0')
+if (shell.exec(`new-gql-server __tester`)) {
+  return shell.exec('rm -r __tester && echo "Success" && exit 0')
 }
 
 return shell.exec('echo "Failed" && exit 1')
