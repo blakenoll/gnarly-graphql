@@ -4,7 +4,7 @@
   "description": "GraphQL bolierplate code using express ",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "npm tests/test.js"
   },
   "author": "Blake Noll <nollblake@gmail.com> (http://blakenoll.com)",
   "license": "MIT",
