@@ -1,7 +1,7 @@
 [![Build Status](https://travis-ci.org/blakenoll/gnarly-graphql.svg?branch=master)](https://travis-ci.org/blakenoll/gnarly-graphql)
 # Description
 
-NPM package allowing users to create boilerplate GraphQL servers powered by Express, apollo-express-server and Babel using a simple CLI.
+NPM package allowing users to create boilerplate GraphQL servers powered by Apollo Server 2.
 
 # Installation
 
