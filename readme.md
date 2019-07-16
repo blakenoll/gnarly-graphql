@@ -9,28 +9,37 @@ Install globally to allow CLI to run anywhere.
 
 Using yarn:
 
-`yarn add -G gnarly-graphql`
+```bash
+yarn add -G gnarly-graphql
+```
 
 Using npm:
 
-`npm i -g gnarly-graphql`
+```bash
+npm i -g gnarly-graphql
+```
 
 
 # Usage
 
-Once Installed simple run the command: 
+To create a new GraphQL server
 
-`new-gql-server <serverName>`
+```bash
+new-gql-server <serverName>
+```
 
-to create a new GraphQL server 
+Show options
 
-`new-gql-server -help`
+```bash
+new-gql-server -help
+```
 
-to bring up help docmentation
+Show version
 
-`new-gql-server -v`
+```bash
+new-gql-server -v
+```
 
-to bring up version info
 
 
 
